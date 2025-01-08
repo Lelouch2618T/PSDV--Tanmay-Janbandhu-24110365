@@ -1,0 +1,2 @@
+In this article, we will be looking at the approach to set x-axis values in matplotlib in a python programming language.
+The xticks() function in pyplot module of the Matplotlib library is used to set x-axis values.
